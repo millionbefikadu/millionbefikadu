@@ -1,8 +1,5 @@
 # 👨‍💻 Million Eshetu (Million Befikadu)
-<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/miligithub-banner.png" alt="Million GitHub Banner" style="max-width: 100%; border-radius: 10px;" />
-
-![Uploading miligithub-banner.png…]()
-
+"C:\Users\eshet\Downloads\miligithub-banner.png"
 
 
 
