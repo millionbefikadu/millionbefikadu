@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/banner-dark.png" alt="Million Eshetu Banner" style="width:100%; border-radius: 10px;" />
-
+<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/miligithub-banner.png" alt="Million GitHub Banner" style="width:100%; border-radius: 10px;" />
 # 👨‍💻 Million Eshetu (Million Befikadu)
 
 ## 💼 Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
