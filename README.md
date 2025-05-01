@@ -1,8 +1,4 @@
-
-
-<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/banner.png" alt="Million Eshetu Banner" style="width:100%; border-radius: 10px;" />
-![Uploading ChatGPT Image May 1, 2025, 06_18_57 PM.png…]()
-
+<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/banner-dark.png" alt="Million Eshetu Banner" style="width:100%; border-radius: 10px;" />
 
 # 👨‍💻 Million Eshetu (Million Befikadu)
 
@@ -18,29 +14,29 @@ Hi there! I'm **Million**, a Software Engineering Technology graduate from **Cen
 
 ## 🧠 Technical Skills
 
-### 🗣 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![Java](https://img.shields.io/badge/-Java-007396)
-![C#](https://img.shields.io/badge/-C%23-239120)
+### 🗣 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)  
+![Java](https://img.shields.io/badge/-Java-007396)  
+![C#](https://img.shields.io/badge/-C%23-239120)  
 ![Python](https://img.shields.io/badge/-Python-3776AB)
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933)
-![Express](https://img.shields.io/badge/-Express-black)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F)
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933)  
+![Express](https://img.shields.io/badge/-Express-black)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab)
 
-### ☁️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
-![SQL](https://img.shields.io/badge/-MySQL-blue)
-![AWS](https://img.shields.io/badge/-AWS-232F3E)
+### ☁️ Databases & Cloud  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)  
+![SQL](https://img.shields.io/badge/-MySQL-blue)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E)  
 ![Render](https://img.shields.io/badge/-Render-46E3B7)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-181717)
+### 🛠 Tools  
+![Git](https://img.shields.io/badge/-Git-F05032)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717)  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC)
 
 ---
@@ -60,8 +56,8 @@ Hi there! I'm **Million**, a Software Engineering Technology graduate from **Cen
 
 ## 📚 Currently Exploring
 
-- 🧩 Microfrontend Architecture with Vite
-- 🤖 AI integration using LangChain.js and Gemini API
+- 🧩 Microfrontend Architecture with Vite  
+- 🤖 AI integration using LangChain.js and Gemini API  
 - ☁️ AWS Lambda and serverless backend services
 
 ---
@@ -70,6 +66,5 @@ Hi there! I'm **Million**, a Software Engineering Technology graduate from **Cen
 
 ---
 
-![Million's GitHub Stats](https://github-readme-stats.vercel.app/api?username=millionbefikadu&show_icons=true&theme=radical)
+![Million's GitHub Stats](https://github-readme-stats.vercel.app/api?username=millionbefikadu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millionbefikadu&layout=compact)
-
