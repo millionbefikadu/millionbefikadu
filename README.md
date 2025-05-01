@@ -1,3 +1,9 @@
+
+
+<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/banner.png" alt="Million Eshetu Banner" style="width:100%; border-radius: 10px;" />
+![Uploading ChatGPT Image May 1, 2025, 06_18_57 PM.png…]()
+
+
 # 👨‍💻 Million Eshetu (Million Befikadu)
 
 ## 💼 Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
