@@ -2,7 +2,7 @@
 ![miligithub-banner](https://github.com/user-attachments/assets/e87ef74d-7a9f-4509-9e00-a3d529e7d861)
 
 
-<img src="https://raw.githubusercontent.com/millionbefikadu/millionbefikadu/main/miligithub-banner.png" alt="miligithub-banner" style="width:10%; border-radius: 10px;" />
+
 
 
 
