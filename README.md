@@ -49,7 +49,7 @@ Hi there! I'm **Million**, a Software Engineering Technology graduate from **Cen
 
 ## 💻 Featured Projects
 
-### 🌍 [Church Website](github.com/millionbefikadu/church-website)
+### 🌎 [Church Website](https://github.com/millionbefikadu/church-website)
 )
 > A community-driven website using React and Bootstrap. Features event scheduling, a dynamic admin panel, and Google Maps.
 
